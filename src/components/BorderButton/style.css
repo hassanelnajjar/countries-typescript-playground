@@ -1,0 +1,11 @@
+.border-btn{
+  border: none;
+  border-bottom: 1px solid black;
+  cursor: pointer;
+  font-weight: 800;
+  width: fit-content;
+}
+
+.border-btn::after{
+  content: '   |   ';
+}

@@ -1,0 +1,27 @@
+.search-filter{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+}
+
+.search-input{
+  width: 30%;
+  line-height: 3;
+  border-radius: 10px;
+  border:none;
+  outline: none;
+  padding-left: 20px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.514),-2px -2px 2px rgba(0, 0, 0, 0.514)
+}
+
+.filter-input{
+  width: 10%;
+  border-radius: 10px;
+  border:none;
+  outline: none;
+  height: 40px;
+  background-color: white;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.514),-2px -2px 2px rgba(0, 0, 0, 0.514)
+}

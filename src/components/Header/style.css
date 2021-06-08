@@ -1,0 +1,14 @@
+.nav-header{
+  font-weight: 800;
+  box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.267);
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  height: 50px;
+  align-items: center;
+}
+
+.home-link{
+  text-decoration: none;
+  color:black
+}
